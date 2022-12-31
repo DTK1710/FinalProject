@@ -1,0 +1,10 @@
+﻿  Drawing.cpp
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphics.h(373,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphics.h(373,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphics.h(455,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphics.h(456,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\Drawing.cpp(80,18): warning C4018: '<': signed/unsigned mismatch
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\Drawing.cpp(97,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\Drawing.cpp(123,23): warning C4018: '<': signed/unsigned mismatch
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphic_dequeue.h(175): warning C4715: 'GRAPHIC_DEQUE::pop': not all control paths return a value
+LINK : fatal error LNK1104: cannot open file 'd:\HK1_2022-2023\Drawing\Drawing\libbgi.a'

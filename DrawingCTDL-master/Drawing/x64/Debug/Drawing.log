@@ -1,0 +1,17 @@
+﻿  Drawing.cpp
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphics.h(70,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphics.h(83,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphics.h(179,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphics.h(212,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphics.h(234,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphics.h(434,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphics.h(434,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphics.h(509,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphics.h(510,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphic_stack.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphic_queue.h(147,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphic_dequeue.h(188,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\graphic_double_linked_list.h(304,19): warning C4805: '!=': unsafe mix of type 'int' and type 'bool' in operation
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\topo_sort.h(49,6): warning C4101: 'F': unreferenced local variable
+D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\Drawing\Drawing.cpp(140,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Drawing.vcxproj -> D:\CTDL&GT\DoAnCuoiKy\Final\DrawingCTDL-master\x64\Debug\Drawing.exe

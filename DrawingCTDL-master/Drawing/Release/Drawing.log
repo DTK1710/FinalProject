@@ -1,0 +1,10 @@
+﻿  Drawing.cpp
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphics.h(303,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphics.h(328,2): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphics.h(373,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphics.h(373,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphics.h(455,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\graphics.h(456,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\Drawing.cpp(80,18): warning C4018: '<': signed/unsigned mismatch
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\Drawing.cpp(97,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\CTDL&GT\DoAnCuoiKy\DrawingCTDL-master\Drawing\Drawing.cpp(123,23): warning C4018: '<': signed/unsigned mismatch
